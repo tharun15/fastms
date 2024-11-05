@@ -1,0 +1,26 @@
+venv
+
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+inventory-frontend/node_modules
+#/inventory-frontend/.pnp
+#inventory-frontend/.pnp.js
+
+# testing
+#inventory-frontend/coverage
+
+# production
+#inventory-frontend/build
+
+# misc
+#inventory-frontend/.DS_Store
+#inventory-frontend/.env.local
+#inventory-frontend/.env.development.local
+#inventory-frontend/.env.test.local
+#inventory-frontend/.env.production.local
+
+#inventory-frontend/npm-debug.log*
+#inventory-frontend/yarn-debug.log*
+#inventory-frontend/yarn-error.log*
